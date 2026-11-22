@@ -1,0 +1,16 @@
+Senior AI Engineer (sample job description)
+
+We are building agentic AI products on top of our data platform.
+
+Requirements:
+- 4+ years of experience building production software in Python
+- Hands-on experience with LLMs and RAG
+- Experience building AI agents or multi-agent workflows
+- Strong SQL and experience with Databricks or Spark
+- Docker and Kubernetes
+
+Nice to have:
+- Model Context Protocol (MCP)
+- LLM evaluation (evals, LLM-as-a-judge)
+- Vector databases such as pgvector or Pinecone
+- Airflow
